@@ -1,0 +1,11 @@
+{
+  "emmet.showSuggestionsAsSnippets": true,
+  "emmet.showAbbreviationSuggestions": true,
+  "emmet.useInlineCompletions": true,
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.preferences": {
+  
+  },
+  "editor.suggest.preview": true,
+  "editor.suggest.snippetsPreventQuickSuggestions": true
+}
